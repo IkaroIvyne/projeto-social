@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+* {
+        margin: 0px;
+        padding: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+img {
+    width: 100vw;
+}
+
+a {
+    display: block;
+    background-color: brown;
+    color: white;
+    
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: red;
+}
+
+#idda {
+        display: block;
+        background-color: green;
+        color: white;
+        
+        padding: 20px;
+        text-align: center;
+        font-weight: bolder;
+        text-decoration: none;
+}
+
+#idda:hover {
+        background-color: greenyellow;
+}
+
+#iddi {
+    display: block;
+    background-color: purple;
+    color: white;
+    
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+#iddi:hover {
+    background-color: rgb(219, 0, 219);
+}
+
+#iddt {
+    display: block;
+    background-color: lightskyblue;
+    color: white;
+    
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+#iddt:hover {
+    background-color: blue;
+}
+
+#iddf {
+    display: block;
+    background-color:  blue ;
+    color: white;
+    
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+#iddf:hover {
+    background-color: lightskyblue;
+}
